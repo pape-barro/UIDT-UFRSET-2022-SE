@@ -1,7 +1,7 @@
 # UIDT-UFRSET-2022-SE
  * ##  Université de Thiès/UFR Sciences et Technologies/Département Informatique 
  * ##  Systèmes embarqués (2021 - 2022) 
-###  Introduction aux microcontrôleurs et aux éléments de machine 
+###  Introduction aux microcontrôleurs
 
 ``` - Organisation du travail(40h): ```
  * Cours magistral : 20h ;
